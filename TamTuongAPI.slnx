@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+  </Folder>
+  <Project Path="TamTuong.API/TamTuong.API.csproj" Id="6f85f4d2-d26c-4717-91be-d0a019c36ae9" />
+  <Project Path="TamTuong.model/TamTuong.Model.csproj" Id="5d59af39-2586-4184-baa0-cd6785cd6815" />
+  <Project Path="TamTuong.Repository/TamTuong.Repository.csproj" />
+  <Project Path="TamTuong.Service/TamTuong.Service.csproj" />
+</Solution>
